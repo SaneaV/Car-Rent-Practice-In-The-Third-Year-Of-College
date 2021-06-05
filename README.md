@@ -50,6 +50,10 @@ The database should always be in multiple copies to avoid any problems. It shoul
 Guest, admin, employee, accountant, director.
 
 <br><br>
+(Click on image to watch the video)<br>
+[<img src="https://img.youtube.com/vi/8L7kTsBUEcg/maxresdefault.jpg" width="50%">](https://youtu.be/8L7kTsBUEcg)
+
+<br><br>
 ![Image](img/1.png)
 ![Image](img/2.png)
 ![Image](img/3.png)
